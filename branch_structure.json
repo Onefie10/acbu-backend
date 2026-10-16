@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "origin",
+    "security/issue-1148-w10-sec-014-webhook-signature-bypass-can"
+  ],
+  "parent": {
+    "dev": null,
+    "origin": "dev",
+    "security/issue-1148-w10-sec-014-webhook-signature-bypass-can": "dev"
+  },
+  "order": [
+    "dev",
+    "origin",
+    "security/issue-1148-w10-sec-014-webhook-signature-bypass-can"
+  ]
+}
